@@ -1,0 +1,6 @@
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\6-Interfaces\5-Polymorphism\1-Polymorphism\1-Polymorphism\bin\Debug\1-Polymorphism.exe.config
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\6-Interfaces\5-Polymorphism\1-Polymorphism\1-Polymorphism\bin\Debug\1-Polymorphism.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\6-Interfaces\5-Polymorphism\1-Polymorphism\1-Polymorphism\bin\Debug\1-Polymorphism.pdb
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\6-Interfaces\5-Polymorphism\1-Polymorphism\1-Polymorphism\obj\Debug\1-Polymorphism.csprojAssemblyReference.cache
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\6-Interfaces\5-Polymorphism\1-Polymorphism\1-Polymorphism\obj\Debug\1-Polymorphism.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\6-Interfaces\5-Polymorphism\1-Polymorphism\1-Polymorphism\obj\Debug\1-Polymorphism.pdb
